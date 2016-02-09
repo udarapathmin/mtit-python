@@ -1,0 +1,9 @@
+Slept	Studied	exercised	marks
+6	5	5		90
+5	3	3		75
+10	2	4		83
+
+
+
+
+
